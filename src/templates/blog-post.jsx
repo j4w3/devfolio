@@ -23,6 +23,8 @@ const BlogPost = ({ data }) => {
       <p className={classes.date}>
         Posted on {moment(post.frontmatter.date).format('MMMM D, YYYY')}
       </p>
+      <p> Testing {post.frontmatter.slug}</p>
+      <p> Testing again {post.frontmatter.link}</p>
       <div
         className={classes.wrapper}
         dangerouslySetInnerHTML={{ __html: post.html }}

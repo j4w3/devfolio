@@ -12,7 +12,7 @@ const SectionBlog = ({ posts }) => {
           key={post.node.fields.slug}
           name={post.node.frontmatter.title}
           description={post.node.frontmatter.description}
-          link={post.node.frontmatter.link}
+          link={post.node.frontmatter.title}
           internal
         />
       ))}
