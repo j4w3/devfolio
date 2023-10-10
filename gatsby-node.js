@@ -95,6 +95,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
+      link: String
     }
     
     type Fields {
