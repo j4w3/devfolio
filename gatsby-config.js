@@ -15,13 +15,13 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/j4w3`,
     // Content of the About Me section
-    about: `I'm a product manager passionate about creating products from 0 to 1. Currently building Starcraft IRL. By night I write about the most impactful private tech companies and connect startups with investors.`,
+    about: `I'm a product manager passionate about creating products from 0 to 1. Currently building Starcraft IRL. By night I write about the most impactful private tech companies and connect startups with investors. For inquiries or if you'd like to grab a coffee, you can reach me at mail (at) j4w3 (dot) com.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
         name: 'Lattice',
         description:
-          'An AI-enabled software platform for command and control of autonomous systems',
+          'AI-enabled software platform for command and control of autonomous systems',
         link: 'https://www.anduril.com/mission-autonomy/',
       },
       {
@@ -41,17 +41,17 @@ module.exports = {
     experience: [
       {
         name: 'Anduril',
-        description: 'Product Manager, February 2021 - Present',
+        description: 'Product Manager | February 2021 - Present',
         link: 'https://www.anduril.com/',
       },
       {
         name: 'Uber ATG',
-        description: 'Product Manager // Software Systems Engineer, October 2018 - January 2021',
+        description: 'Product Manager | October 2018 - January 2021',
         link: 'https://www.uber.com/us/en/autonomous/',
       },
       {
         name: 'Lockheed Martin',
-        description: 'Software Engineer, January 2017 - October 2018',
+        description: 'Software Engineer | January 2017 - October 2018',
         link: 'https://www.lockheedmartin.com/',
       },
     ],

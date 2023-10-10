@@ -45,13 +45,13 @@ const Header = ({ metadata = {}, noBlog = false }) => {
               </a>
             </li>
           )}
-          {github && (
+          {/* {github && (
             <li className={classes.item}>
               <a className={classes.link} href={github}>
                 GitHub
               </a>
             </li>
-          )}
+          )} */}
           {linkedin && (
             <li className={classes.item}>
               <a className={classes.link} href={linkedin}>
