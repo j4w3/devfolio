@@ -9,6 +9,7 @@ const BlogPosts = ({ posts }) => {
       {posts.map((post) => (
         <SummaryItem
           key={post.node.fields.slug}
+          date={post.node.frontmatter.date}
           name={post.node.frontmatter.title}
           description={post.node.frontmatter.description}
           //link={post.node.fields.slug}   Uncomment this to revert back to internal blog
