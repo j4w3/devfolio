@@ -2,6 +2,7 @@
 title: My Fourth Blog Post
 date: '2020-10-12T12:00:00.00Z'
 description: 'Unde reprehenderit inventore sunt, consequatur'
+link: 'https://www.google.com/'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit
