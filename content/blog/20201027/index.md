@@ -1,8 +1,8 @@
 ---
-title: My Third Blog Post
-date: '2020-10-10T12:00:00.00Z'
-description: 'Dolor inventore quasi necessitatibus odio eaque doloribus'
-link: 'https://www.google.com/'
+title: Breaking into Product Management
+date: '2020-10-27T12:00:00.00Z'
+description: 'Lessons learned from my personal journey'
+link: 'https://j4w3.xyz/breaking-into-product-management-c5c738057f0e'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit

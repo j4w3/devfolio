@@ -1,8 +1,8 @@
 ---
-title: My Fourth Blog Post
-date: '2020-10-12T12:00:00.00Z'
-description: 'Unde reprehenderit inventore sunt, consequatur'
-link: 'https://www.google.com/'
+title: Why I Left Tech to Work in Defense
+date: '2021-11-03T12:00:00.00Z'
+description: 'Giving up nap pods, free sushi, and other perks to work with Uncle Sam'
+link: 'https://j4w3.xyz/why-i-left-tech-to-work-in-defense-c125788aad95'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit

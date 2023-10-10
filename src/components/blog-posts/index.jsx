@@ -11,7 +11,8 @@ const BlogPosts = ({ posts }) => {
           key={post.node.fields.slug}
           name={post.node.frontmatter.title}
           description={post.node.frontmatter.description}
-          link={post.node.fields.slug}
+          //link={post.node.fields.slug}   Uncomment this to revert back to internal blog
+          link={post.node.frontmatter.link}
           internal
         />
       ))}
