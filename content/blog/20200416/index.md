@@ -1,8 +1,8 @@
 ---
-title: My Second Blog Post
-date: '2020-10-02T12:00:00.00Z'
-description: 'Ratione dolore sequi in animi obcaecati incidunt reprehenderit illo repellat'
-link: 'https://www.google.com/'
+title: How DoorDash Won Selection in the Food Delivery War
+date: '2020-04-16T12:00:00.00Z'
+description: 'I’m an Uber employee but if I didn’t have company perks, I’d probably order from DoorDash'
+link: 'https://j4w3.xyz/how-doordash-won-selection-in-the-food-delivery-war-dc9fba55cdaa'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit

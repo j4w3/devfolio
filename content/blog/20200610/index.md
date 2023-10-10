@@ -1,8 +1,8 @@
 ---
-title: My First Blog Post
-date: '2020-09-20T12:00:00.00Z'
-description: 'Ducimus perferendis porro cumque ea error ab voluptatem'
-link: 'https://www.google.com/'
+title: Why Solving Self-Driving Matters
+date: '2020-06-10T12:00:00.00Z'
+description: 'And why it’s not just a VC get-rich-quick scheme'
+link: 'https://j4w3.xyz/why-solving-self-driving-matters-6a22b0e3d6b'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit
