@@ -62,7 +62,7 @@ const Header = ({ metadata = {}, noBlog = false }) => {
           {!noBlog && (
             <li className={classes.item}>
               <Link className={classes.link} to="/blog">
-                Blog
+                Writing
               </Link>
             </li>
           )}

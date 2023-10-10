@@ -29,7 +29,7 @@ const Index = ({ data }) => {
       {experience && experience.length && (
         <SectionExperience experience={experience} />
       )}
-      {skills && skills.length && <SectionSkills skills={skills} />}
+      {/* {skills && skills.length && <SectionSkills skills={skills} />} */}
     </Layout>
   );
 };

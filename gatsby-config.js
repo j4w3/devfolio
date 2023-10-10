@@ -3,7 +3,7 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://dainty-syrniki-302c7a.netlify.app/`,
     // Your Name
-    name: 'Jason Wong',
+    name: 'Jason Wong     JW',
     // Main Site Title
     title: `Jason Wong | Product Manager`,
     // Description that goes under your name in main bio
