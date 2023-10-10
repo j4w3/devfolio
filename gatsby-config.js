@@ -1,77 +1,77 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://dainty-syrniki-302c7a.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Jason Wong',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Jason Wong | Product Manager`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Product manager, venture scout, & angel investor`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@json2txt`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/j4w3`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/j4w3`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I'm a product manager building products from 0 to 1 in emerging tech. By night I write about the most impactful private tech companies and connect startups with investors.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
-    projects: [
-      {
-        name: 'Devfolio',
-        description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'ChromeExtensionKit',
-        description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
-      },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-    ],
+    // projects: [
+    //   {
+    //     name: 'Devfolio',
+    //     description:
+    //       'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
+    //     link: 'https://github.com/RyanFitzgerald/devfolio',
+    //   },
+    //   {
+    //     name: 'ChromeExtensionKit',
+    //     description:
+    //       'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
+    //     link: 'https://chromeextensionkit.com/?ref=devfolio',
+    //   },
+    //   {
+    //     name: 'Another Cool Project',
+    //     description:
+    //       'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
+    //     link: 'https://github.com/RyanFitzgerald/devfolio',
+    //   },
+    // ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Anduril',
+        description: 'Product Manager, February 2021 - Present',
+        link: 'https://www.anduril.com/',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Uber ATG',
+        description: 'Product Manager // Software Systems Engineer, October 2018 - January 2021',
+        link: 'https://www.uber.com/us/en/autonomous/',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Lockheed Martin',
+        description: 'Software Engineer, January 2017 - October 2018',
+        link: 'https://www.lockheedmartin.com/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
-    skills: [
-      {
-        name: 'Languages & Frameworks',
-        description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
-      },
-      {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
-      },
-      {
-        name: 'Other',
-        description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
-      },
-    ],
+    // skills: [
+    //   {
+    //     name: 'Languages & Frameworks',
+    //     description:
+    //       'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+    //   },
+    //   {
+    //     name: 'Databases',
+    //     description: 'MongoDB, PostreSQL, MySQL',
+    //   },
+    //   {
+    //     name: 'Other',
+    //     description:
+    //       'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+    //   },
+    // ],
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
