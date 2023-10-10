@@ -15,28 +15,28 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/j4w3`,
     // Content of the About Me section
-    about: `I'm a product manager building products from 0 to 1 in emerging tech. By night I write about the most impactful private tech companies and connect startups with investors.`,
+    about: `I'm a product manager passionate about creating products from 0 to 1. Currently building Starcraft IRL. By night I write about the most impactful private tech companies and connect startups with investors.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
-    // projects: [
-    //   {
-    //     name: 'Devfolio',
-    //     description:
-    //       'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-    //     link: 'https://github.com/RyanFitzgerald/devfolio',
-    //   },
-    //   {
-    //     name: 'ChromeExtensionKit',
-    //     description:
-    //       'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-    //     link: 'https://chromeextensionkit.com/?ref=devfolio',
-    //   },
-    //   {
-    //     name: 'Another Cool Project',
-    //     description:
-    //       'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-    //     link: 'https://github.com/RyanFitzgerald/devfolio',
-    //   },
-    // ],
+    projects: [
+      {
+        name: 'Lattice',
+        description:
+          'An AI-enabled software platform for command and control of autonomous systems',
+        link: 'https://www.anduril.com/mission-autonomy/',
+      },
+      {
+        name: 'Sentry Tower',
+        description:
+          'Autonomously detect and track moving objects in the world from miles away',
+        link: 'https://www.anduril.com/capability/land/',
+      },
+      {
+        name: 'Self-Driving Uber',
+        description:
+          'Call an Uber, watch it roll up without a driver in front, and take a (boring) ride to where you need to go',
+        link: 'https://www.youtube.com/watch?v=EYh0F_8ZdSU',
+      },
+    ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
