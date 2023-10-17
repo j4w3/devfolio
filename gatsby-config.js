@@ -16,6 +16,15 @@ module.exports = {
     linkedin: `https://www.linkedin.com/in/j4w3`,
     // Content of the About Me section
     about: `I'm a product manager passionate about creating products from 0 to 1. Currently building Starcraft IRL. By night I write about the most impactful private tech companies and connect startups with investors. For inquiries or if you'd like to grab a coffee, you can reach me at mail (at) j4w3 (dot) com.`,
+    // Optional: List your activities, they must have `name` and `description`. `link` is optional.
+    activities: [
+      {
+        name: 'Day Job',
+        description:
+          'We\'re hiring at Anduril, reach out if you have questions',
+        link: 'https://www.anduril.com',
+      },
+    ],
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
