@@ -33,7 +33,7 @@ module.exports = {
       {
         name: 'Self-Driving Uber',
         description:
-          'Call an Uber, watch it roll up without a driver in front, and take a (boring) ride to where you need to go',
+          'Building a safer, driverless future',
         link: 'https://www.youtube.com/watch?v=EYh0F_8ZdSU',
       },
     ],
