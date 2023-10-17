@@ -1,7 +1,7 @@
 ---
 title: Nuro
 date: '2023-05-03T12:00:00.00Z'
-description: 'Business Breakdown & Founding Story'
+description: 'Building the future of robots delivering your food and groceries'
 link: 'https://research.contrary.com/reports/nuro'
 ---
 

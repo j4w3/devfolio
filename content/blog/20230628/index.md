@@ -1,7 +1,7 @@
 ---
 title: Linktree
 date: '2023-06-28T12:00:00.00Z'
-description: 'Business Breakdown & Founding Story'
+description: 'One link to rule your digital domain'
 link: 'https://research.contrary.com/reports/linktree'
 ---
 

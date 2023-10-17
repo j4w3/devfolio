@@ -1,7 +1,7 @@
 ---
 title: Alchemy
 date: '2023-06-07T12:00:00.00Z'
-description: 'Business Breakdown & Founding Story'
+description: 'Powering the decentralized web's next frontier'
 link: 'https://research.contrary.com/reports/alchemy'
 ---
 

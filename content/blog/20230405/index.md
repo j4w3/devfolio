@@ -1,7 +1,7 @@
 ---
 title: Magic Eden
 date: '2023-04-05T12:00:00.00Z'
-description: 'Business Breakdown & Founding Story'
+description: 'Solana's hotspot for bringing NFTs and web3 games to the masses'
 link: 'https://research.contrary.com/reports/magic-eden'
 ---
 

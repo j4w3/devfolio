@@ -1,7 +1,7 @@
 ---
 title: Patreon
 date: '2023-05-31T12:00:00.00Z'
-description: 'Business Breakdown & Founding Story'
+description: 'Revolutionizing artist support, one patron at a time'
 link: 'https://research.contrary.com/reports/patreon'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: CoinTracker
 date: '2023-02-23T12:00:00.00Z'
-description: 'Business Breakdown & Founding Story'
+description: 'Making crypto taxes easy'
 link: 'https://research.contrary.com/reports/cointracker'
 ---
 

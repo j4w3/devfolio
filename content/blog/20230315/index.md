@@ -1,7 +1,7 @@
 ---
 title: Coda
 date: '2023-03-15T12:00:00.00Z'
-description: 'Business Breakdown & Founding Story'
+description: 'Redefining documents in the app-driven age'
 link: 'https://research.contrary.com/reports/coda'
 ---
 
