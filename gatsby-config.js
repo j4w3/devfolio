@@ -15,14 +15,26 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/j4w3`,
     // Content of the About Me section
-    about: `I'm a product manager passionate about creating products from 0 to 1. Currently building Starcraft IRL. By night I write about the most impactful private tech companies and connect startups with investors. For inquiries or if you'd like to grab a coffee, you can reach me at mail (at) j4w3 (dot) com.`,
+    about: `I'm a product manager passionate about creating products from 0 to 1. By night I write about the most impactful private tech companies and connect startups with investors. For inquiries or if you'd like to grab a coffee, you can reach me at mail (at) j4w3 (dot) com.`,
     // Optional: List your activities, they must have `name` and `description`. `link` is optional.
     activities: [
       {
-        name: 'Day Job',
+        name: 'Product Lead',
         description:
-          'We\'re hiring at Anduril, reach out if you have questions',
-        link: 'https://www.anduril.com',
+          'Building Starcraft IRL. Hiring across engineering, product, growth, and more',
+        link: 'https://www.anduril.com/',
+      },
+      {
+        name: 'Venture Scout',
+        description:
+          'Connecting seed stage companies in fintech, e-commerce, enterprise, and more to Grishin Robotics. Reach out if you\'re a founder looking to get traction',
+        link: 'https://www.grishinrobotics.com/',
+      },
+      {
+        name: 'Research Fellow',
+        description:
+          'Researching and writing about the most impactful private tech companies. If you think that\'s your company or have suggestions, drop me a note!',
+        link: 'https://research.contrary.com/',
       },
     ],
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
