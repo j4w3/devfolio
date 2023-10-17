@@ -1,8 +1,8 @@
 ---
-title: CoinTracker
-date: '2023-02-23T12:00:00.00Z'
+title: Nuro
+date: '2023-05-03T12:00:00.00Z'
 description: 'Business Breakdown & Founding Story'
-link: 'https://research.contrary.com/reports/cointracker'
+link: 'https://research.contrary.com/reports/nuro'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit

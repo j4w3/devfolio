@@ -1,8 +1,8 @@
 ---
-title: CoinTracker
-date: '2023-02-23T12:00:00.00Z'
+title: Magic Eden
+date: '2023-04-05T12:00:00.00Z'
 description: 'Business Breakdown & Founding Story'
-link: 'https://research.contrary.com/reports/cointracker'
+link: 'https://research.contrary.com/reports/magic-eden'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit

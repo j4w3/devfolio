@@ -1,8 +1,8 @@
 ---
-title: CoinTracker
-date: '2023-02-23T12:00:00.00Z'
+title: Oura
+date: '2023-06-15T12:00:00.00Z'
 description: 'Business Breakdown & Founding Story'
-link: 'https://research.contrary.com/reports/cointracker'
+link: 'https://research.contrary.com/reports/oura'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit
