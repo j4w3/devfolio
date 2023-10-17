@@ -33,7 +33,7 @@ module.exports = {
       {
         name: 'Research Fellow',
         description:
-          'Researching and writing about the most impactful private tech companies. If you think that\'s your company or have suggestions, drop me a note!',
+          'Researching and writing about the most impactful private tech companies. If you\'ve got suggestions, I\'m all ears',
         link: 'https://research.contrary.com/',
       },
     ],
