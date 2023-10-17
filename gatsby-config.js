@@ -21,19 +21,19 @@ module.exports = {
       {
         name: 'Product Lead',
         description:
-          'Building Starcraft IRL. Hiring across engineering, product, growth, and more',
+          'Building Starcraft IRL @ Anduril. Hiring across engineering, product, growth, and more',
         link: 'https://www.anduril.com/',
       },
       {
         name: 'Venture Scout',
         description:
-          'Connecting seed stage companies in fintech, e-commerce, enterprise, and more to Grishin Robotics. Reach out if you\'re a founder looking to get traction',
+          'Connecting with seed stage companies. Reach out if you\'re a founder looking to get traction',
         link: 'https://www.grishinrobotics.com/',
       },
       {
         name: 'Research Fellow',
         description:
-          'Researching and writing about the most impactful private tech companies. If you\'ve got suggestions, I\'m all ears',
+          'Writing about the most impactful private tech companies. Drop me any suggestions',
         link: 'https://research.contrary.com/',
       },
     ],
