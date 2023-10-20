@@ -27,13 +27,13 @@ module.exports = {
       {
         name: '🚀 Venture Scout',
         description:
-          'Connecting with seed stage companies. Reach out if you\'re a founder looking to get traction',
+          'Connecting with seed stage companies @ Grishin Robotics. Reach out if you\'re a founder looking to get traction',
         link: 'https://www.grishinrobotics.com/',
       },
       {
         name: '📝 Research Fellow',
         description:
-          'Writing about the most impactful private tech companies. Drop me any suggestions',
+          'Writing about the most impactful private tech companies @ Contrary. Drop me any suggestions',
         link: 'https://research.contrary.com/',
       },
     ],
