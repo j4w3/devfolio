@@ -15,23 +15,23 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/j4w3`,
     // Content of the About Me section
-    about: `I'm a product manager passionate about creating products from 0 to 1. By night I write about the most impactful private tech companies and connect startups with investors. For inquiries or if you'd like to grab a coffee, you can reach me at mail (at) j4w3 (dot) com.`,
+    about: `👋 I'm a product manager passionate about creating products from 0 to 1. By night I write about the most impactful private tech companies and connect startups with investors. For inquiries or if you'd like to grab a coffee, you can reach me at mail (at) j4w3 (dot) com.`,
     // Optional: List your activities, they must have `name` and `description`. `link` is optional.
     activities: [
       {
-        name: 'Product Lead',
+        name: '🛠️ Product Lead',
         description:
           'Building Starcraft IRL @ Anduril. Hiring across engineering, product, growth, and more',
         link: 'https://www.anduril.com/',
       },
       {
-        name: 'Venture Scout',
+        name: '🚀 Venture Scout',
         description:
           'Connecting with seed stage companies. Reach out if you\'re a founder looking to get traction',
         link: 'https://www.grishinrobotics.com/',
       },
       {
-        name: 'Research Fellow',
+        name: '📝 Research Fellow',
         description:
           'Writing about the most impactful private tech companies. Drop me any suggestions',
         link: 'https://research.contrary.com/',
@@ -40,19 +40,19 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Lattice',
+        name: '🤖 Lattice',
         description:
           'AI-enabled software platform for command and control of autonomous systems',
         link: 'https://www.anduril.com/mission-autonomy/',
       },
       {
-        name: 'Sentry Tower',
+        name: '🗼 Sentry Tower',
         description:
           'Autonomously detect and track moving objects in the world from miles away',
         link: 'https://www.anduril.com/capability/land/',
       },
       {
-        name: 'Self-Driving Uber',
+        name: '🚖 Self-Driving Uber',
         description:
           'Building a safer, driverless future',
         link: 'https://www.youtube.com/watch?v=EYh0F_8ZdSU',
@@ -61,17 +61,17 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Anduril',
+        name: '🦅 Anduril',
         description: 'Product Manager | February 2021 - Present',
         link: 'https://www.anduril.com/',
       },
       {
-        name: 'Uber ATG',
+        name: '🚕 Uber ATG',
         description: 'Product Manager | October 2018 - January 2021',
         link: 'https://www.uber.com/us/en/autonomous/',
       },
       {
-        name: 'Lockheed Martin',
+        name: '✈️ Lockheed Martin',
         description: 'Software Engineer | January 2017 - October 2018',
         link: 'https://www.lockheedmartin.com/',
       },
