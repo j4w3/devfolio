@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://dainty-syrniki-302c7a.netlify.app/`,
+    siteUrl: `https://j4w3.com`,
     // Your Name
     name: 'Jason Wong',
     // Main Site Title
@@ -62,17 +62,17 @@ module.exports = {
     experience: [
       {
         name: '🦅 Anduril',
-        description: 'Product Manager | February 2021 - Present',
+        description: 'Product | February 2021 - Present',
         link: 'https://www.anduril.com/',
       },
       {
-        name: '🚕 Uber ATG',
-        description: 'Product Manager | October 2018 - January 2021',
+        name: '🚕 Uber',
+        description: 'Product | October 2018 - January 2021',
         link: 'https://www.uber.com/us/en/autonomous/',
       },
       {
         name: '✈️ Lockheed Martin',
-        description: 'Software Engineer | January 2017 - October 2018',
+        description: 'Software | January 2017 - October 2018',
         link: 'https://www.lockheedmartin.com/',
       },
     ],
