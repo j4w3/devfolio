@@ -1,7 +1,7 @@
 ---
 title: Coda
 date: '2023-03-15T12:00:00.00Z'
-description: 'Redefining documents in the app-driven age'
+description: 'The doc that brings words, data, & teams together'
 link: 'https://research.contrary.com/reports/coda'
 ---
 

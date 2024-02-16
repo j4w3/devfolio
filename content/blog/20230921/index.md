@@ -1,7 +1,7 @@
 ---
 title: Verkada
 date: '2023-09-21T12:00:00.00Z'
-description: 'Pioneering the future of cloud-integrated surveillance.'
+description: 'Helping organizations operate safer, smarter buildings'
 link: 'https://j4w3.com/blog/20230921'
 ---
 

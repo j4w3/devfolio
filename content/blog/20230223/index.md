@@ -1,7 +1,7 @@
 ---
 title: CoinTracker
 date: '2023-02-23T12:00:00.00Z'
-description: 'Making crypto taxes easy'
+description: 'Enabling everyone in the world to use crypto with peace of mind'
 link: 'https://research.contrary.com/reports/cointracker'
 ---
 

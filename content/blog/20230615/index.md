@@ -1,7 +1,7 @@
 ---
 title: Oura
 date: '2023-06-15T12:00:00.00Z'
-description: 'Your sleep and health, wrapped around a finger'
+description: 'Making health a daily practice'
 link: 'https://research.contrary.com/reports/oura'
 ---
 

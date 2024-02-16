@@ -1,7 +1,7 @@
 ---
 title: Patreon
 date: '2023-05-31T12:00:00.00Z'
-description: 'Revolutionizing artist support, one patron at a time'
+description: 'Building a better future for creators and fans'
 link: 'https://research.contrary.com/reports/patreon'
 ---
 
